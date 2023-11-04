@@ -1,4 +1,4 @@
-#
+# Build a node.ja app image and push to github packages
 name: Create and publish a Docker image
 
 # Configures this workflow to run every time a change is pushed to the branch called `release`.
